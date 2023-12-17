@@ -1,6 +1,6 @@
 ## Theme color generator
 
-> Simple color generator :rocket:  [live demo](https://pages.github.com/)
+> Simple color generator :rocket:  [live demo](zhmay.github.io/theme-color-generator/)
 
 - *use the space bar to generate random colors*
 - *save the color you like by locking it with the lock button*
